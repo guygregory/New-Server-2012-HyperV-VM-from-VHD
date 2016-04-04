@@ -34,4 +34,4 @@ Move-Item $UnpackedVHDPath $DestinationVHDPath
 New-VM -Name $VMName -MemoryStartupBytes $StartingMemory -VHDPath $DestinationVHDPath
 
 #Start the VM
-Start-VM –Name $VMNameter file contents here
+Start-VM -Name $VMNameter file contents here
