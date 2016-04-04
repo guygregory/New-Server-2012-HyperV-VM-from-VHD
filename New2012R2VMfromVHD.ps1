@@ -1,5 +1,5 @@
 #Define the server name, e.g. TFSFILE01
-$VMName="SERVERNAME"
+$VMName="TESTSERVER"
 
 #Allocated Starting Memory
 $StartingMemory=2GB
