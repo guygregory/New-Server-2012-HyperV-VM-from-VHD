@@ -10,7 +10,6 @@ $BaseFolderPath="C:\tfsltemp\"
 #This is the download link from here: https://www.microsoft.com/en-gb/evalcenter/evaluate-windows-server-2012-r2
 $ServerDownloadURL = "http://care.dlservice.microsoft.com/dl/download/0/C/2/0C2B1216-422C-4A22-8742-0D599E354F0C/vhd_server_serverstandardeval_en-us.exe"
 
-
 ########## Do not change below here ##############
 
 #Set variables
