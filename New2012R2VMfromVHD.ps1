@@ -1,4 +1,4 @@
-En#Define the server name, e.g. TFSFILE01
+#Define the server name, e.g. TFSFILE01
 $VMName="SERVERNAME"
 
 #Allocated Starting Memory
